@@ -3,7 +3,6 @@
 Simple ZSH plugin to allow querying ChatGPT from the command line. Inspired by and based on (1000x Engineer)[https://kadekillary.work/posts/1000x-eng/] by Kade Killary. See that post
 for more great examples.
 
-``````
 ```
 ❯ g hello world
 Hello there! How can I assist you today?
